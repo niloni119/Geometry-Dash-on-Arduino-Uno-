@@ -46,15 +46,3 @@ A minimalist, high-speed version of the popular platformer game, **Geometry Dash
 4.  Upload the code to your Arduino.
 5.  Press the button to start playing!
 
----
-
-### 📷 Project Photos
-
-| Setup | Game Over Screen |
-| :---: | :---: |
-| ![Full setup of the project with Arduino Uno, OLED, and button on a breadboard.](images/wiring.jpg) | ![The Game Over screen displaying the final score.](images/game_over.jpg) |
-
-*(Note: The images above are placeholders for your uploaded files: `<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/f46b764a-407e-4e6e-95c9-675314ef1024" />
-` as `<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/156e36cc-2e46-40b0-bc2f-501f51de1e13" />
-` and `<img width="785" height="396" alt="image" src="https://github.com/user-attachments/assets/b6350e46-3556-455b-ba86-2efbe523eec3" />
-`)*
