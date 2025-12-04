@@ -48,9 +48,9 @@ A minimalist, high-speed version of the popular platformer game, **Geometry Dash
    
 ## The main goal of the project 
 
-is to demonstrate the possibility of creating a simple, dynamic gameplay (platformer runner)
-
-based on basic and affordable Arduino components, focusing on the efficient use of limited resources.:
+is to demonstrate the possibility of creating a simple,
+dynamic gameplay (platformer runner)based on basic and affordable Arduino components,
+focusing on the efficient use of limited resources.:
 
 * **Graphics:** Using monochrome OLED display (128x64) and U8g2 library for rendering graphic primitives (cube, spikes, earth).
 
