@@ -52,8 +52,8 @@ is to demonstrate the possibility of creating a simple, dynamic gameplay (platfo
 
 based on basic and affordable Arduino components, focusing on the efficient use of limited resources.:
 
-**Graphics:** Using monochrome OLED display (128x64) and U8g2 library for rendering graphic primitives (cube, spikes, earth).
+* **Graphics:** Using monochrome OLED display (128x64) and U8g2 library for rendering graphic primitives (cube, spikes, earth).
 
-**Logic:** Implementation of basic game mechanics such as gravity, jumping, obstacle generation and collision checking.
+* **Logic:** Implementation of basic game mechanics such as gravity, jumping, obstacle generation and collision checking.
 
-**Performance:** Achieve high frame rate (FPS) for smooth gameplay, despite the low power of the microcontroller.
+* **Performance:** Achieve high frame rate (FPS) for smooth gameplay, despite the low power of the microcontroller.
