@@ -45,4 +45,15 @@ A minimalist, high-speed version of the popular platformer game, **Geometry Dash
 3.  Ensure you have selected the correct **Board** (`Arduino Uno`) and **Port**.
 4.  Upload the code to your Arduino.
 5.  Press the button to start playing!
+   
+## The main goal of the project 
 
+is to demonstrate the possibility of creating a simple, dynamic gameplay (platformer runner)
+
+based on basic and affordable Arduino components, focusing on the efficient use of limited resources.:
+
+**Graphics:** Using monochrome OLED display (128x64) and U8g2 library for rendering graphic primitives (cube, spikes, earth).
+
+**Logic:** Implementation of basic game mechanics such as gravity, jumping, obstacle generation and collision checking.
+
+**Performance:** Achieve high frame rate (FPS) for smooth gameplay, despite the low power of the microcontroller.
